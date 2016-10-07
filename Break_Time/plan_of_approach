@@ -1,0 +1,8 @@
+set up variables
+time
+video url 
+
+start timer
+	- when time mod x amount of minutes is equal to 0 
+		- open url in browser and play it
+		
