@@ -1,0 +1,5 @@
+get list of all files
+for each file
+	check name to see if it has a number
+	if a character (within name is a number)
+		remove it
